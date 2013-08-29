@@ -6,5 +6,5 @@ public class Util {
   int c=0;
   int d=0;
   int x=0;
-  String y="";
+  String y="gg";
 }
