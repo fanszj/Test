@@ -5,4 +5,5 @@ public class Util {
   int b=1;
   int c=0;
   int d=0;
+  int x=0;
 }
