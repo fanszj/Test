@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Kflow"
+  id="myeclipse.1377757702784"
+  context-root="/Kflow"
+  j2ee-spec="5.0"
+  archive="Kflow.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
